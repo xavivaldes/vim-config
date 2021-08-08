@@ -1,4 +1,5 @@
 # vim-config
+Tested on Windows Terminal with Solarized color scheme.
 
 ## Installation
 
