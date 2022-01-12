@@ -60,3 +60,8 @@ inoremap { {}<left>
 inoremap {<CR> {<CR>}<ESC>O
 inoremap {;<CR> {<CR>};<ESC>O
 
+set smartindent
+set tabstop=2
+set expandtab
+set shiftwidth=2
+
